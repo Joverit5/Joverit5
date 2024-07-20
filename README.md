@@ -1,4 +1,4 @@
-<h1 align="center"><b> Hi, I'm José González! </b><img src="https://static-00.iconduck.com/assets.00/personal-computer-emoji-2048x1707-tzvu6v3l.png" width="40"></h1>
+<h1 align="center"><b> Hi, I'm José González! 👨🏻‍💻</b></h1>
 <!--  -->
 <br>
 <p align="center">
@@ -6,16 +6,22 @@
 </p>
 
 <!-- Presentation -->
-📚 Estudiante de Ingeniería de Sistemas apasionado por el mundo de la programación y la colaboración en equipo. Actualmente, estoy inmerso en un emocionante viaje de aprendizaje, explorando las profundidades de la programación y la tecnología.
+<details align=center>
+  <summary>About me</summary>
+   <p text align=justify>📚 I'm a Systems Engineering student passionate about programming. Currently, I'm on an exciting learning journey, exploring the depths of programming and technology.</p>
+  
+  <p text align=justify>💻 My coding journey began with Python and C++, two languages that have helped me build a solid foundation in problem-solving and programming logic. Additionally, I work with SQL, HTML and CSS to create attractive and functional web experiences (Currently learning TailwindCSS and Next.js for dinamics web applications).</p>
+  
+  <p text align=justify>🤝 I firmly believe in the power of teamwork and collaboration to create impactful solutions. I'm always excited about the possibility of working on exciting projects and learning from others who are passionate about technology.</p>
+  
+  <p text align=justify>🌱 Constantly seeking new challenges and growth opportunities, I am committed to my continuous development in the world of engineering and programming. Feel free to contact me if you're interested in sharing knowledge, working together on projects, or simply having a conversation about technology.</p>
+</details>
 
-💻 Mi camino en el mundo de la codificación comenzó con Python y C++, dos lenguajes que me han permitido construir una base sólida en la resolución de problemas y la lógica de programación. Además, manejo HTML y CSS para crear experiencias web atractivas y funcionales.
-
-🤝 Creo firmemente en el poder del trabajo en equipo y en la colaboración para crear soluciones impactantes. Siempre estoy emocionado por la posibilidad de colaborar en proyectos emocionantes y aprender de otros apasionados por la tecnología.
-
-🌱 Siempre en búsqueda de nuevos desafíos y oportunidades de crecimiento, estoy comprometido con mi desarrollo continuo en el mundo de la ingeniería y la programación. No dudes en contactarme si estás interesado en compartir conocimientos, trabajar juntos en proyectos o simplemente tener una conversación relacionada con la tecnología.
-
-¡Vamos a construir el futuro juntos, línea de código a línea de código! 💡🚀
 
 <!-- Skills -->
 <h2> Work Arsenal: Tech & Tools </h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,fastapi,py,nextjs,tailwind,anaconda,azure,blender,figma,pr,ae,ps&theme=dark" />
+  </a>
+</p>
