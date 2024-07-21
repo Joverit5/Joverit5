@@ -8,6 +8,7 @@
 <!-- Presentation -->
 <details align=center>
   <summary>About me</summary>
+  <h2><b>ABOUT ME </b></h2>
    <p text align=justify>📚 I'm a Systems Engineering student passionate about programming. Currently, I'm on an exciting learning journey, exploring the depths of programming and technology.</p>
   
   <p text align=justify>💻 My coding journey began with Python and C++, two languages that have helped me build a solid foundation in problem-solving and programming logic. Additionally, I work with SQL, HTML and CSS to create attractive and functional web experiences (Currently learning TailwindCSS and Next.js for dinamics web applications).</p>
@@ -17,6 +18,57 @@
   <p text align=justify>🌱 Constantly seeking new challenges and growth opportunities, I am committed to my continuous development in the world of engineering and programming. Feel free to contact me if you're interested in sharing knowledge, working together on projects, or simply having a conversation about technology.</p>
 </details>
 
+<!-- Stats-->
+<details align=center>
+  <summary>Github Stats</summary>
+<h1 align="center"></h1>
+<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=Joverit5&count_private=true&hide_border=true&show_icons=true&theme=transparent" />
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joverit5&layout=compact&hide_border=true&theme=transparent&langs_count=9" />
+<img height="150" />
+</details>
+
+<!--Proyects-->
+<details align=center>
+  <summary>Proyects</summary>
+	  <h2><b> PROYECTS </b></h2>
+<div>
+  <p align="center">
+	<a href="https://github.com/Joverit5/Caso-Hospital-Workshop">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Joverit5&hide_border=true&repo=Caso-Hospital-Workshop&theme=transparent" alt="Caso-OOP" />
+    	</a>
+	<a href="https://github.com/Joverit5/Proyecto-Noisy">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Joverit5&repo=Proyecto-Noisy&hide_border=true&theme=transparent" alt="Noisy" />
+    	</a>
+    	<a href="https://github.com/Joverit5/Plataforma-Universitaria-de-Servicios-y-Prestamos-PUSP">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Joverit5&repo=Plataforma-Universitaria-de-Servicios-y-Prestamos-PUSP&hide_border=true&theme=transparent" alt="PUSP" />
+    	</a>
+    	<a href="https://github.com/Joverit5/Joverit5">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Joverit5&repo=Joverit5&hide_border=true&theme=transparent" alt="README" />
+    	</a>
+  </p>
+</div>
+</details>
+
+<!--Contact-->
+<details align=center>
+  <summary>Contact</summary>
+    <h2><b> CONTACT ME </b></h2>
+  <br>
+  <p align="center">
+  <a href="https://discord.com/users/1247146038612197394">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
+  </a>
+  <a href="mailto:joveritfive@gmail.com">
+     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+  <a href="https://www.instagram.com/jfgo_/">
+     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+  </a>
+  <a href="https://github.com/Joverit5">
+     <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  </a>
+</p>
+</details>
 
 <!-- Skills -->
 <h2> Work Arsenal: Tech & Tools </h2>
@@ -25,3 +77,6 @@
     <img src="https://skillicons.dev/icons?i=cpp,html,css,js,fastapi,py,nextjs,tailwind,anaconda,azure,blender,figma,pr,ae,ps&theme=dark" />
   </a>
 </p>
+<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%"/>
+  </a>
