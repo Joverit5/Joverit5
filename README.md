@@ -52,7 +52,7 @@
 <!--Contact-->
 <details align=center>
   <summary>Contact</summary>
-    <h2><b> CONTACT ME </b></h2>
+    <h2><b> CONTACT LINKS </b></h2>
   <br>
   <p align="center">
   <a href="https://discord.com/users/1247146038612197394">
