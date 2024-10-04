@@ -33,8 +33,8 @@
 	  <h2><b> PROYECTS </b></h2>
 <div>
   <p align="center">
-	<a href="https://github.com/Joverit5/Caso-Hospital-Workshop">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Joverit5&hide_border=true&repo=Caso-Hospital-Workshop&theme=transparent" alt="Caso-OOP" />
+	<a href="https://github.com/Joverit5/NASA-HACKATON-EXOVERSE">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Joverit5&hide_border=true&repo=NASA-HACKATON-EXOVERSE&theme=transparent" alt="ExoVerse" />
     	</a>
 	<a href="https://github.com/Joverit5/Proyecto-Noisy">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Joverit5&repo=Proyecto-Noisy&hide_border=true&theme=transparent" alt="Noisy" />
