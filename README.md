@@ -36,8 +36,8 @@
 	<a href="https://github.com/Joverit5/NASA-HACKATON-EXOVERSE">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Joverit5&hide_border=true&repo=NASA-HACKATON-EXOVERSE&theme=transparent" alt="ExoVerse" />
     	</a>
-	<a href="https://github.com/Joverit5/Proyecto-Noisy">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Joverit5&repo=Proyecto-Noisy&hide_border=true&theme=transparent" alt="Noisy" />
+	<a href="https://github.com/Joverit5/Task-Scheduler">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Joverit5&repo=Task-Scheduler&hide_border=true&theme=transparent" alt="Task-Scheduler" />
     	</a>
     	<a href="https://github.com/Joverit5/Plataforma-Universitaria-de-Servicios-y-Prestamos-PUSP">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Joverit5&repo=Plataforma-Universitaria-de-Servicios-y-Prestamos-PUSP&hide_border=true&theme=transparent" alt="PUSP" />
