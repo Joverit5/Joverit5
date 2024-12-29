@@ -1,3 +1,7 @@
+<a>
+<img src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=0:243694,50:264778,100:427786"/>
+</a>
+
 <h1 align="center"><b> Hi, I'm José González! 👨🏻‍💻</b></h1>
 <!--  -->
 <br>
@@ -77,6 +81,6 @@
     <img src="https://skillicons.dev/icons?i=cpp,html,css,js,fastapi,py,nextjs,tailwind,anaconda,azure,blender,figma,pr,ae,ps&theme=dark" />
   </a>
 </p>
-<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+<a>
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%"/>
   </a>
