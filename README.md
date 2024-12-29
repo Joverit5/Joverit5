@@ -1,5 +1,5 @@
 <a>
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%"/>
   </a>
 <h1 align="center"><b> Hi, I'm José González! 👨🏻‍💻</b></h1>
 <!--  -->
@@ -81,5 +81,5 @@
   </a>
 </p>
 <a>
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Footer" width="100%"/>
   </a>
