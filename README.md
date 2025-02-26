@@ -42,12 +42,6 @@
 	<a href="https://github.com/Joverit5/Task-Scheduler">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Joverit5&repo=Task-Scheduler&hide_border=true&theme=transparent" alt="Task-Scheduler" />
     	</a>
-    	<a href="https://github.com/Joverit5/Plataforma-Universitaria-de-Servicios-y-Prestamos-PUSP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Joverit5&repo=Plataforma-Universitaria-de-Servicios-y-Prestamos-PUSP&hide_border=true&theme=transparent" alt="PUSP" />
-    	</a>
-    	<a href="https://github.com/Joverit5/Joverit5">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Joverit5&repo=Joverit5&hide_border=true&theme=transparent" alt="README" />
-    	</a>
   </p>
 </div>
 </details>
