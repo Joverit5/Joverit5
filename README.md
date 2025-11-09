@@ -39,8 +39,8 @@
 	<a href="https://github.com/Joverit5/NASA-HACKATON-EXOVERSE">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Joverit5&hide_border=true&repo=NASA-HACKATON-EXOVERSE&theme=transparent" alt="ExoVerse" />
     	</a>
-	<a href="https://github.com/Joverit5/Task-Scheduler">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Joverit5&repo=Task-Scheduler&hide_border=true&theme=transparent" alt="Task-Scheduler" />
+	<a href="https://github.com/Joverit5/COAFINA_LIMB-0">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Joverit5&repo=COAFINA_LIMB-0&hide_border=true&theme=transparent" alt="LIMB-0" />
     	</a>
 	<a href="https://github.com/Joverit5/Sistemas-de-Mensajes">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Joverit5&repo=Sistemas-de-Mensajes&hide_border=true&theme=transparent" alt="Sistemas-de-Mensajes" />
