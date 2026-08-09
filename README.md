@@ -107,6 +107,11 @@
   <br>
   <table>
     <tr>
+	  <td>
+        <a href="https://github.com/Joverit5/Frutii">
+          <img align="center" src="https://github-stats-extended.vercel.app/api/pin?username=Joverit5&repo=Frutii&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Frutii" />
+        </a>
+      </td>
       <td>
         <a href="https://github.com/Joverit5/NASA-HACKATON-EXOVERSE">
           <img align="center" src="https://github-stats-extended.vercel.app/api/pin?username=Joverit5&repo=NASA-HACKATON-EXOVERSE&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="ExoVerse" />
