@@ -129,9 +129,6 @@
           <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Joverit5&repo=NASA-SPATIUM&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="SPATIUM" />
         </a>
       </td>
-      <td>
-        <!-- Empty slot to keep grid or add another project -->
-      </td>
     </tr>
   </table>
 </div>
