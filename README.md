@@ -123,13 +123,6 @@
         </a>
       </td>
     </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Joverit5/NASA-SPATIUM">
-          <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Joverit5&repo=NASA-SPATIUM&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="SPATIUM" />
-        </a>
-      </td>
-    </tr>
   </table>
 </div>
 
